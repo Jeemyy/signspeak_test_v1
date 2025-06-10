@@ -1,0 +1,27 @@
+@media (max-width: 1039px) {
+.head .nav1 a{
+  margin-left: 5px;
+  color: var(--base-text-color);
+  margin-right: 10px;
+}
+}
+
+@media (max-width: 1000px) {
+  .sec2 .card-4 h3{
+  position: relative;
+  top: -5rem;
+  }
+  .sec2 .all-card button{
+  /* position: relative; */
+    /* right: 0px; */
+    margin-left: -10px;
+  }
+}
+
+@media (max-width: 948){
+  .head .nav1 a{
+    margin-right: 0px;
+    margin-left: 5px;
+    padding: 0px 500px;
+  }
+}

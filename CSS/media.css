@@ -25,3 +25,9 @@
     padding: 0px 500px;
   }
 }
+
+@media (max-width: 600px){
+  .robot-3d-1 , .robot-3d-2{
+    display: none;
+  }
+}
